@@ -81,11 +81,3 @@ A atividade 6 não habilita transporte das VLANs entre switches nem roteamento e
 
 ### Teste de isolamento — PC0 para Laptop0
 ![Ping entre dispositivos de VLANs diferentes](evidencias/05-ping-pc0-laptop0.png)
-
-## Complemento recomendado
-
-Adicionar uma captura da topologia completa, sem janelas sobrepostas, melhora a apresentação do cenário. Não foi identificada configuração obrigatória ausente para o escopo apresentado da atividade 6.
-
-## Referência de aula
-
-Material de aula, slide 08: definição, criação e associação de portas a VLANs. Os slides não são redistribuídos neste repositório.
